@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
-Краткое описание проекта (1-2 предложения):  
+ 
 *"End-to-end решение для прогнозирования диабета через год на основе медицинских показателей. Используется классический датасет `sklearn.datasets.load_diabetes()`.. Проект включает полный цикл: от анализа данных до сравнения эффективности различных алгоритмов."*
 
 ---
